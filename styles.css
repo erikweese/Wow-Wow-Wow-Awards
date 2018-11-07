@@ -1,0 +1,23 @@
+.AwardTitle {
+    Color: Purple;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    font-size: 64px;
+}
+.header {
+    color: green;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    font-size: 76px;
+}
+img {
+    display:block;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+body {
+    background-image: url(
+    http://www.biocenit.cat/mypics/57/570516/baby-pink-glitter-wallpaper.jpg);
+
+}
